@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Blog Post Application](https://github.com/Sidkjr/Blogpost_app/)
 
-- 🌱 I’m currently learning **Flask, Flutter and React**
+- 🌱 I’m currently learning **Flask, Flutter, Angular and React**
 
 - 💬 Ask me about **Python and WebDev**
 
