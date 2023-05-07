@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flask, Flutter, Angular and React**
 
-- 💬 Ask me about **Python and WebDev**
+- 💬 Ask me about **Python, WebDesign and Web3**
 
 - 📫 How to reach me **siddhant.khare.sk@gmail.com**
 
